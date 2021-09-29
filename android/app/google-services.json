@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785533589887",
+    "project_id": "bwa-cozy-fb0fe",
+    "storage_bucket": "bwa-cozy-fb0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785533589887:android:96fc14fed104371fd3a24a",
+        "android_client_info": {
+          "package_name": "com.adifens.kos_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785533589887-4erhipdfkmblkee30eboivhsmd4ua2fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtO_lBueCA7IwXCuDimEgFylr1MN1d6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785533589887-4erhipdfkmblkee30eboivhsmd4ua2fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
