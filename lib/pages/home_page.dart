@@ -166,6 +166,9 @@ class HomePage extends StatelessWidget {
                 },
               ),
             ),
+            SizedBox(
+              height: 30,
+            ),
             //NOTE: Tips and Guidance
             Padding(
               padding: EdgeInsets.only(left: 24),
